@@ -20,7 +20,7 @@ A web-based Newsletter Generator using Flask, HTML, and CSS that lets users crea
 ## 📦 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/pathakpriyanshu/newsletter-generator.git
+   git clone https://github.com/pathakpriyanshu/newsletter_generator.git
    ```
 2. Navigate to the project folder:
    ```sh
